@@ -1,0 +1,8 @@
+ID: mta-intro
+_schema-version: '3.1'
+version: 0.0.2
+
+modules:
+ - name: nodeApp
+   type: nodejs
+   path: app1
